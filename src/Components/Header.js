@@ -1,5 +1,5 @@
 import React from 'react'
-import profile from '../images/profile.webp';
+import profile from '../assets/images/profile.webp';
 
 
 const Header = () => {
